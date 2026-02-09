@@ -1,6 +1,7 @@
 # Portuguese Bank Marketing Analysis
 
-![Portuguese Bank Marketing Analysis](./portugese bank.png)
+![Portuguese Bank Marketing Analysis](portugese bank img.png)
+
 
 
 ## 📌 Project Overview
