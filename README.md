@@ -1,5 +1,7 @@
 # Portuguese Bank Marketing Analysis
 
+![Portuguese Bank Marketing Analysis](./portugese bank.png)
+
 ## 📌 Project Overview
 Banks invest heavily in marketing campaigns for financial products such as term deposits. This project analyzes a Portuguese bank’s marketing dataset to predict whether a customer will subscribe to a term deposit, helping improve campaign efficiency and customer targeting.
 
